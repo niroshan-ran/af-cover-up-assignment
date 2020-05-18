@@ -1,3 +1,8 @@
+This Project is for the Cover-up Assignment on Application Framework 
+Created by Irantha Niroshan Ranasinghe (Ranasinghe I.N, Registration Number : IT17164054)
+
+!!Note!! This Project is required Active Internet Connection to work Perfectly.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
